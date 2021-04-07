@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "JavaScript Frameworks experience",
+      "answer": "VueJs 3 months ↔️ React 7 months",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Freelance contract",
+      "answer": "No",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Full-time contract",
+      "answer": "Absolutely",
+      "reminder": true
+    },
+    {
+      "id": "4",
+      "text": "Remote work",
+      "answer": "Absolutely",
+      "reminder": true
+    },
+    {
+      "id": "5",
+      "text": "Availability",
+      "answer": "ASAP",
+      "reminder": true
+    },
+    {
+      "text": "Salary expectations",
+      "answer": "💸💸💸💸💸",
+      "reminder": true,
+      "id": "Yxgqsa6"
+    }
+  ]
+}
